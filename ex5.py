@@ -1,7 +1,5 @@
 print "hepp!"
 print "hopp!"
-print "NISSE!!!"
-print "putte!"
 x="There are %d types of people." % 10
 binary="binary"
 do_not="don't"
